@@ -1,0 +1,1411 @@
+MIDDLEWARE: Authenticating
+No token found
+GET /login
+MIDDLEWARE: Authenticating
+No token found
+GET /login
+POST /login
+auth successful
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+Upserting e6b8df2e-52b8-4bc0-ab0b-9cf3da895015
+Writing 1 jobs
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+DELETE /jobs/e6b8df2e-52b8-4bc0-ab0b-9cf3da895015
+Deleting job e6b8df2e-52b8-4bc0-ab0b-9cf3da895015 for user1
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+MIDDLEWARE: Authenticating
+Invalid token
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+GET /login
+POST /jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Adding job with jobid: 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+File doesn't exist yet
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Execution time: 70.942768125 seconds
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+Upserting 01e52634-c3d3-4aea-a26d-0fa94087749e
+Writing 1 jobs
+GET /login
+GET /login
+GET /login
+DELETE /jobs/01e52634-c3d3-4aea-a26d-0fa94087749e
+Deleting job 01e52634-c3d3-4aea-a26d-0fa94087749e for turnercharlie25@gmail.com
+POST /jobs
+Upserting 59d91844-ab08-4220-bdb2-4736b2372dd3
+Adding job with jobid: 59d91844-ab08-4220-bdb2-4736b2372dd3
+Writing 1 jobs
+POST /jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Adding job with jobid: 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+File doesn't exist yet
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+Upserting 920dc55a-d1bc-402b-990a-df21461a7748
+Writing 1 jobs
+DELETE /jobs/920dc55a-d1bc-402b-990a-df21461a7748
+Deleting job 920dc55a-d1bc-402b-990a-df21461a7748 for turnercharlie25@gmail.com
+POST /jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Adding job with jobid: 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+File doesn't exist yet
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+Upserting 944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Writing 1 jobs
+POST /jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Adding job with jobid: 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+File doesn't exist yet
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+Upserting 8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Writing 2 jobs
+POST /jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Adding job with jobid: 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+File doesn't exist yet
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+Upserting 10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Writing 3 jobs
+POST /jobs
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Adding job with jobid: 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+File doesn't exist yet
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+Upserting 48a48932-ea6d-4761-8e86-80c391521d23
+Writing 4 jobs
+POST /jobs
+Upserting 281d87cb-f8cb-4a86-afab-2a66c4215894
+Adding job with jobid: 281d87cb-f8cb-4a86-afab-2a66c4215894
+Writing 5 jobs
+File doesn't exist yet
+Upserting 281d87cb-f8cb-4a86-afab-2a66c4215894
+Writing 5 jobs
+Upserting 281d87cb-f8cb-4a86-afab-2a66c4215894
+Writing 5 jobs
+Upserting 281d87cb-f8cb-4a86-afab-2a66c4215894
+Writing 5 jobs
+Upserting 281d87cb-f8cb-4a86-afab-2a66c4215894
+Writing 5 jobs
+POST /jobs
+Upserting c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Adding job with jobid: c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Writing 6 jobs
+File doesn't exist yet
+Upserting c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Writing 6 jobs
+Upserting c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Writing 6 jobs
+Upserting c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Writing 6 jobs
+POST /jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Adding job with jobid: b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+File doesn't exist yet
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+Upserting b9e6875b-7e14-4707-af0e-816c21f416e1
+Writing 7 jobs
+GET /login
+DELETE /jobs/b9e6875b-7e14-4707-af0e-816c21f416e1
+Deleting job b9e6875b-7e14-4707-af0e-816c21f416e1 for turnercharlie25@gmail.com
+DELETE /jobs/8b8533a4-360c-4b4e-a287-3a8ba95e72ea
+Deleting job 8b8533a4-360c-4b4e-a287-3a8ba95e72ea for turnercharlie25@gmail.com
+DELETE /jobs/944690c7-70d7-4c21-bdf0-7aff86d4e6b7
+Deleting job 944690c7-70d7-4c21-bdf0-7aff86d4e6b7 for turnercharlie25@gmail.com
+DELETE /jobs/10f7fcba-cf19-4923-9a80-b62f3a39b1f3
+Deleting job 10f7fcba-cf19-4923-9a80-b62f3a39b1f3 for turnercharlie25@gmail.com
+DELETE /jobs/48a48932-ea6d-4761-8e86-80c391521d23
+Deleting job 48a48932-ea6d-4761-8e86-80c391521d23 for turnercharlie25@gmail.com
+DELETE /jobs/281d87cb-f8cb-4a86-afab-2a66c4215894
+Deleting job 281d87cb-f8cb-4a86-afab-2a66c4215894 for turnercharlie25@gmail.com
+DELETE /jobs/c48b4d7e-9db7-4a6e-861f-3e734034e1a4
+Deleting job c48b4d7e-9db7-4a6e-861f-3e734034e1a4 for turnercharlie25@gmail.com
+POST /jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Adding job with jobid: dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+File doesn't exist yet
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs
+Upserting dfb05345-eb1b-42f2-8166-cd6ba94bdf44
+Writing 1 jobs

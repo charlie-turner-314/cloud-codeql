@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Static Code Analysis Server</title>
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body class="bg-gray-100 p-4">
+    <header>
+      <header class="flex justify-center w-full">
+        <nav
+          class="bg-white shadow-md mb-6 flex justify-between items-center py-4 px-4 w-[72rem]"
+        >
+          <h1 class="text-2xl font-bold">Static Code Analysis Server</h1>
+          <div>
+            <span class="text-gray-700 mr-4" id="auth-status"
+              >Welcome, <span id="username"></span
+            ></span>
+            <button
+              class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+              id="btn-auth"
+            ></button>
+          </div>
+        </nav>
+      </header>
+    </header>
+    <div class="max-w-6xl mx-auto bg-white shadow-md rounded-lg p-6">
+      <h2 class="text-2xl font-bold mb-4">Your Jobs</h2>
+      <p class="text-gray-700 mb-4">
+        Below are any jobs you have submitted for analysis.
+      </p>
+      <section id="job-container" class="mb-6">
+        <template id="job-template">
+          <div class="job-card bg-gray-100 p-4 rounded-lg mb-4">
+            <h3 class="text-xl font-semibold mb-1">
+              Job Repo: <span class="job-repo"></span>
+            </h3>
+            <p class="text-gray-700 mb-1">
+              Status: <span class="job-status"></span>
+            </p>
+            <p class="text-gray-700 mb-1">
+              Language: <span class="job-language"></span>
+            </p>
+            <p class="text-gray-700 mb-1">
+              Submitted: <span class="job-submitted"></span>
+            </p>
+            <p class="text-gray-700 mb-1">
+              Completed: <span class="job-completed"></span>
+            </p>
+            <p class="text-gray-700 mb-1">
+              Results: <span class="job-results">Download</span>
+            </p>
+            <p class="text-gray-700 mb-1">
+              <a href="#" class="job-delete text-red-500">Delete Job</a>
+            </p>
+            <!-- Progress bar for "in_progress" jobs -->
+            <div class="progress-bar-container mb-1 w-full bg-white rounded-md">
+              <div
+                class="progress-bar bg-blue-500 text-blue text-center rounded-md"
+              ></div>
+            </div>
+          </div>
+        </template>
+      </section>
+
+      <h2 class="text-2xl font-bold mb-4">Static Code Analysis</h2>
+
+      <!-- Section 1: Code Selection -->
+      <section class="mb-6">
+        <h3 class="text-xl font-semibold mb-2">1. Code Selection</h3>
+        <div class="code_select mb-4">
+          <label class="block text-gray-700 mb-2" for="github-url"
+            >GitHub URL</label
+          >
+          <input
+            class="w-full p-2 border border-gray-300 rounded"
+            type="url"
+            id="github-url"
+            placeholder="https://github.com/user/repo"
+          />
+        </div>
+        <!-- <div class="code_select mb-4">
+          <label class="block text-gray-700 mb-2" for="file-upload"
+            >File Upload</label
+          >
+          <input
+            class="w-full p-2 border border-gray-300 rounded"
+            type="file"
+            id="file-upload"
+          />
+        </div>
+        <div class="code_select" onClick="{selectCode}">
+          <label class="block text-gray-700 mb-2" for="code-textarea"
+            >Or Paste Code</label
+          >
+          <textarea
+            class="w-full p-2 border border-gray-300 rounded"
+            id="code-textarea"
+            rows="6"
+            placeholder="Paste your code here..."
+          ></textarea>
+        </div> -->
+      </section>
+
+      <!-- Section 2: Options -->
+      <section class="mb-6">
+        <h3 class="text-xl font-semibold mb-2">2. Options</h3>
+        <div class="mb-4">
+          <label class="block text-gray-700 mb-2" for="language-selector"
+            >Select Language</label
+          >
+          <select
+            class="w-full p-2 border border-gray-300 rounded"
+            id="language-selector"
+          ></select>
+        </div>
+        <div class="mb-4">
+          <label class="block text-gray-700 mb-2">Analysis Type</label>
+          <div class="flex flex-wrap gap-2 justify-center">
+            <div
+              class="option_select selected rounded-lg max-w-[22rem] p-4 border border-gray-300 bg-aqua-200"
+              onclick="toggleSelected(this)"
+            >
+              <h3 class="text-lg font-semibold">CodeQL</h3>
+              <p>
+                Static analysis to catch syntax errors, security vulnerabilities
+                and enforce coding standards.
+              </p>
+            </div>
+            <!-- <div
+              class="option_select selected rounded-lg max-w-[22rem] p-4 border border-gray-300"
+              onclick="toggleSelected(this)"
+            >
+              <h3 class="text-lg font-semibold">ML Vulnerability Detection</h3>
+              <p>
+                Use machine learning to detect security vulnerabilities in the
+                code.
+              </p>
+            </div> -->
+            <div
+              class="option_select selected rounded-lg max-w-[22rem] p-4 border border-gray-300"
+              onclick="toggleSelected(this)"
+            >
+              <h3 class="text-lg font-semibold">Server Load</h3>
+              <p>
+                Use a pre-set and pre-downloaded repo to load the server for 5
+                minutes.
+              </p>
+            </div>
+          </div>
+        </div>
+        <input
+          type="hidden"
+          id="analysis-type"
+          name="analysis-type"
+          value="CodeQL"
+        />
+      </section>
+
+      <!-- Section 3: Confirmation -->
+      <section>
+        <h3 class="text-xl font-semibold mb-2">3. Confirmation</h3>
+        <div class="mb-4">
+          <p class="text-gray-700">
+            Review your selections and submit the job for analysis.
+          </p>
+        </div>
+        <p id="error" class="text-red-500 mb-4"></p>
+        <button
+          class="bg-green-500 text-white px-4 py-2 rounded"
+          onclick="send()"
+        >
+          Submit
+        </button>
+      </section>
+    </div>
+
+    <script src="scripts/index.js"></script>
+  </body>
+</html>
